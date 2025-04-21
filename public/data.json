@@ -1,0 +1,35 @@
+{
+    "creative": {
+      "careers": ["UX Designer", "Animator", "Content Creator"],
+      "hobbies": ["Drawing", "Photography", "Writing"],
+      "resources": [
+        { "name": "Skillshare", "url": "https://www.skillshare.com/" },
+        { "name": "YouTube", "url": "https://youtube.com" }
+      ]
+    },
+    "analytical": {
+      "careers": ["Data Analyst", "Software Engineer", "Statistician"],
+      "hobbies": ["Chess", "Sudoku", "Coding"],
+      "resources": [
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/" },
+        { "name": "Khan Academy", "url": "https://www.khanacademy.org/" }
+      ]
+    },
+    "helper": {
+      "careers": ["Counselor", "Teacher", "Social Worker"],
+      "hobbies": ["Volunteering", "Teaching", "Journaling"],
+      "resources": [
+        { "name": "edX", "url": "https://www.edx.org/" },
+        { "name": "Coursera", "url": "https://www.coursera.org/" }
+      ]
+    },
+    "adventurous": {
+      "careers": ["Travel Blogger", "Wildlife Photographer", "Tour Guide"],
+      "hobbies": ["Hiking", "Backpacking", "Surfing"],
+      "resources": [
+        { "name": "Lonely Planet", "url": "https://www.lonelyplanet.com/" },
+        { "name": "Red Bull TV", "url": "https://www.redbull.com/" }
+      ]
+    }
+  }
+  
